@@ -7,3 +7,6 @@
 3. 运行``bash compile_run.sh``来编译并运行test.ets，验证环境配置的正确性
 4. 运行``python fuzz.py``进行变异fuzz实验，结果将以jsonl格式保存在项目根目录
 
+## 详细文档说明（需使用华为内网访问）
+- Fuzz做法与结果: https://clouddocs.huawei.com/wapp/public/7e77ce99-25b1-4bb1-bd49-d3cac12b9403
+- AI+Fuzz相关paper: https://clouddocs.huawei.com/wapp/public/ff19b771-f468-4be7-b0d6-02ba7717c43a
